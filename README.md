@@ -6,11 +6,11 @@ A CPU course project in Logisim with an 8-bit datapath, a separate accumulator, 
 
 ## Demo
 
-[<img src="media/images/part2-demo-preview.jpg" width="600" alt="Frame from the Part 2 demo showing the register file, accumulator, instruction RAM, and TTY">](media/videos/part2-demo-muted.mp4)
+[<img src="media/images/part2-demo-preview.jpg" width="600" alt="Frame from the Part 2 demo showing the register file, accumulator, instruction RAM, and TTY">](media/videos/part2-demo.mp4)
 
-[Download the muted Part 2 demo](media/videos/part2-demo-muted.mp4)
+[Download the Part 2 demo](media/videos/part2-demo.mp4)
 
-The recording shows the accumulator-based Part 2 circuit running through its first complete loop. Near the end, Reg-2 contains `08` and Reg-3 contains `01`, and execution returns to the surname loop. The video has no audio. Later loop values are listed below as expected results from the program.
+The recording shows the accumulator-based Part 2 circuit running through its first complete loop. Near the end, Reg-2 contains `08` and Reg-3 contains `01`, and execution returns to the surname loop. Later loop values are listed below as expected results from the program.
 
 ## What I worked on
 
